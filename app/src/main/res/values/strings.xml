@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">minhaapp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_text">Listar Usuários</string>
+
+    <string name="progress_dialog_title">Aguarde&#8230;</string>
+    <string name="progress_dialog_message">Estamos sincronizando algumas coisas&#8230;</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+    <string name="concluir_cadastro">Concluir</string>
+</resources>
